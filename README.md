@@ -4,7 +4,7 @@
   <h3 align="center"><strong>Web developer<strong> from 🇪🇸 </h3>
 </p>
   
-<p align="center" width="300">These is my social networks👇</p>
+<p align="center" width="300">These are my social networks👇</p>
 <p align="center" width="300">
 <a href="https://www.instagram.com/imcasero.dev/">
   <img width="28" src="https://user-images.githubusercontent.com/99729923/202531050-560a7d15-72a5-4f88-8629-87732f5af40a.png">
