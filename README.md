@@ -19,7 +19,7 @@
 </br></br>
 <p align="center" width="300" >
   <h3 align="center" width="300" style="margin-top :14px">👋 About Me</h3>
-  I´m 21 years old web developer and I love all about programming, open source, web development. I am a self-taught and independent person, motivated to improve programming skills.
+  I´m 21 years old web developer and I love all about programming, open source, web development. I consider myself an independent and self-taught person, motivated to improve programming skills.
 I am interested in full stack web technologies and always learning about them. I am a person with high communicative qualities and a medium level of English.
 </br>
   <h3 align="center" width="300" style="margin-top :14px">👨‍🎓 My Studies</h3>
