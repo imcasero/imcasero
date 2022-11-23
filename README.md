@@ -30,7 +30,7 @@ I have a Superior grade formative course of Web Development (DAW) (2021/2023) at
 <p align="center" width="500">
 <img width="50" src="https://user-images.githubusercontent.com/99729923/202535204-9c2116b4-1655-4d5c-8bf1-d04df449ff71.svg">
 <img width="50" src="https://user-images.githubusercontent.com/99729923/202535844-939e2df8-70d6-4d69-85fa-cc78e424cb8e.svg">
-  <br>
+  
 <img width="50" src="https://user-images.githubusercontent.com/99729923/202535946-ad1742c0-9430-4f12-8867-27469f7c5347.svg">
 <img width="50" src="https://user-images.githubusercontent.com/99729923/203137753-6d0e0dd2-14c6-4598-8ac8-4daa5eef140a.svg">  
 </p>
@@ -40,11 +40,11 @@ I have a Superior grade formative course of Web Development (DAW) (2021/2023) at
 <img width="50" src="https://user-images.githubusercontent.com/99729923/202535844-939e2df8-70d6-4d69-85fa-cc78e424cb8e.svg">
 <img width="50" src="https://user-images.githubusercontent.com/99729923/203139790-86322585-f464-46a5-ae5d-2c32fa3b8523.svg">
 <img width="50" src="https://user-images.githubusercontent.com/99729923/203139930-9e1edf8a-928b-4d50-926b-e6becb4183fc.svg">
-  <br>
+  
 <img width="50" src="https://user-images.githubusercontent.com/99729923/202535946-ad1742c0-9430-4f12-8867-27469f7c5347.svg">
 <img width="50" src="https://user-images.githubusercontent.com/99729923/203137593-0409af61-57b5-4a87-a4e1-04258170c5aa.svg">
 <img width="50" src="https://user-images.githubusercontent.com/99729923/203137753-6d0e0dd2-14c6-4598-8ac8-4daa5eef140a.svg">  
-  <br>
+  
 <img width="50" src="https://user-images.githubusercontent.com/99729923/203138275-6f05c84c-4e2c-4fbd-8676-9ee64f201ff5.svg"> 
 <img width="50" src="https://user-images.githubusercontent.com/99729923/203139161-8fcddd4f-86fe-44b8-aa58-0049971e4899.svg"> 
 
