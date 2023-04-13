@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/imcasero_dev" target="blank"><img src="https://img.shields.io/twitter/follow/imcasero_dev?logo=twitter&style=for-the-badge" alt="imcasero_dev" /></a> </p>
 
-- 🔭 I’m currently working on **Higher degree in web application development**
+- 🔭 I’m currently working on **Inetum**
 
-- 🌱 I’m currently learning **Fullstack web development(HTML|CSS|JS|PHP)**
+- 🌱 I’m currently learning **Fullstack web development(HTML|CSS|JS|.NET)**
 
 - 👨‍💻 All of my projects are available at(in progress) [https://imcasero.github.io/port/](https://imcasero.github.io/port/)
 
