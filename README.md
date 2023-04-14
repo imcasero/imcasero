@@ -57,17 +57,20 @@
 </div>
 
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p>
+
+### ⚙️ &nbsp;GitHub Analytics
+<div align="center">
 <a href="https://github.com/imcasero">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imcasero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=stars,issues&custom_title=GitHub+Stats"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imcasero&layout=compact&langs_count=8&theme=algolia&custom_title=Languages"/>
 </a>
-</p>
+  
+</div>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
 
 
 
