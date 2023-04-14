@@ -1,17 +1,15 @@
-<h1 align="center">Hi ✌, I'm Diego</h1>
+<h1 align="center">Hi ✌, I'm <a href="https://linktr.ee/imcasero">Diego</a></h1>
 <h3 align="center">Junior web developer from Spain </h3>
 
-<p align="left"> <a href="https://twitter.com/imcasero_dev" target="blank"><img src="https://img.shields.io/twitter/follow/imcasero_dev?logo=twitter&style=for-the-badge" alt="imcasero_dev" /></a> </p>
+## About Me:
 
-- 🔭 I’m currently working on **Inetum**
+- 🔭 I’m currently working at Inetum.
+- 🌱 I’m currently learning full-stack web development, including HTML, CSS, JS, and .NET.
+- 👨‍💻 You can check out all of my projects (in progress) at https://imcasero.github.io/port/.
+- 💬 Don't hesitate to ask me about web development!
+- 📩 Contact me at diegocaserosmr@gmail.com!
 
-- 🌱 I’m currently learning **Fullstack web development(HTML|CSS|JS|.NET)**
 
-- 👨‍💻 All of my projects are available at(in progress) [https://imcasero.github.io/port/](https://imcasero.github.io/port/)
-
-- 💬 Ask me about **Web development**
-
-- 📫 How to reach me **diegocaserosmr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
