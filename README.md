@@ -2,8 +2,9 @@
   
 
 <p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/99729923/232069327-e458f378-79bc-4c5c-a4be-a7fa56ee6be1.png">
+  <img width="100%" src="https://user-images.githubusercontent.com/99729923/232089944-7b14fab3-e7ea-40d6-af1c-c2dc76a954bd.png">
 </p>
+
 
 ## About Me:
 
