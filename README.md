@@ -1,6 +1,10 @@
 <h1 align="center">Hi ✌, I'm <a href="https://linktr.ee/imcasero">Diego</a></h1>
 <h3 align="center">Junior web developer from Spain </h3>
 
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/99729923/232069327-e458f378-79bc-4c5c-a4be-a7fa56ee6be1.png">
+</p>
+
 ## About Me:
 
 - 🔭 I’m currently working at Inetum.
