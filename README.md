@@ -61,10 +61,15 @@
 
 <p>
 <a href="https://github.com/imcasero">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imcasero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imcasero&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imcasero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=stars,issues&custom_title=GitHub+Stats"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imcasero&layout=compact&langs_count=8&theme=algolia&custom_title=Languages"/>
 </a>
 </p>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 
 
 
