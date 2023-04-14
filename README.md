@@ -14,6 +14,46 @@
 - 📩 Contact me at diegocaserosmr@gmail.com!
 
 
+## :rocket: Favorite Technologies
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <div style="width: 32%; margin: 1%;">
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JS</li>
+            <li>Bootstrap</li>
+        </ul>
+    </div>
+    <div style="width: 32%; margin: 1%;">
+        <ul>
+            <li>Git</li>
+            <li>PHP</li>
+            <li>C#</li>
+            <li>.NET</li>
+        </ul>
+    </div>
+</div>
+
+## 🌱 Currently Learning
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <div style="width: 32%; margin: 1%;">
+        <ul>
+            <li>React</li>
+            <li>Tailwind</li>
+        </ul>
+    </div>
+    <div style="width: 32%; margin: 1%;">
+        <ul>
+            <li>ASP.NET</li>
+            <li>NodeJS</li>
+        </ul>
+    </div>
+</div>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,20 +62,4 @@
 <a href="https://instagram.com/imcasero.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imcasero.dev" height="30" width="40" /></a>
 </p>
 
-### Favorite Technologies
-
-- HTML
-- CSS
-- JS
-- Bootstrap
-- Git
-- PHP
-- C#
-- .NET
-## Technologies I'm currently learning
-
-- React
-- Tailwind
-- ASP.NET
-- NodeJS
 
