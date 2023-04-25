@@ -44,6 +44,7 @@
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <div style="width: 32%; margin: 1%;">
         <ul>
+            <li>TypeScript</li>
             <li>React</li>
             <li>Tailwind</li>
         </ul>
