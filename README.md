@@ -32,7 +32,7 @@
     <div style="width: 32%; margin: 1%;">
         <ul>
           <li>Git</li>
-            <li>.NET</li>
+            <li>C#</li>
             <li>PHP</li>
         </ul>
     </div>
