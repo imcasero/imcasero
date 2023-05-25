@@ -51,7 +51,6 @@
     </div>
     <div style="width: 32%; margin: 1%;">
         <ul>
-            <li>ASP.NET</li>
             <li>NodeJS</li>
         </ul>
     </div>
