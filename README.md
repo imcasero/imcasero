@@ -31,8 +31,7 @@
     </div>
     <div style="width: 32%; margin: 1%;">
         <ul>
-            <li>Git</li>
-            <li>C#</li>
+          <li>Git</li>
             <li>.NET</li>
             <li>PHP</li>
         </ul>
