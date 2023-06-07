@@ -8,9 +8,8 @@
 
 ## About Me:
 
-- 🔭 I’m currently working at Inetum.
+- 🔭 I’m currently working on Inetum.
 - 🌱 I’m currently learning full-stack web development.
-- 👨‍💻 You can check out all of my projects (in progress) at https://imcasero.github.io/port/.
 - 💬 Don't hesitate to ask me about web development!
 - 📩 Contact me at diegocaserosmr@gmail.com!
 
