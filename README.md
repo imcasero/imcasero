@@ -22,8 +22,6 @@
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <div style="width: 32%; margin: 1%;">
         <ul>
-            <li>HTML</li>
-            <li>CSS</li>
             <li>JS</li>
             <li>Bootstrap</li>
         </ul>
