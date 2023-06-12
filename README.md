@@ -23,6 +23,7 @@
     <div style="width: 32%; margin: 1%;">
         <ul>
             <li>JS</li>
+            <li>TS</li>
             <li>Bootstrap</li>
         </ul>
     </div>
