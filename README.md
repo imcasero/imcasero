@@ -22,8 +22,9 @@
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <div style="width: 32%; margin: 1%;">
         <ul>
-            <li>JS</li>
-            <li>TS</li>
+            <li>React</li>
+            <li>JavaScript</li>
+            <li>TypeScript</li>
             <li>Bootstrap</li>
         </ul>
     </div>
