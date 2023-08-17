@@ -9,7 +9,7 @@
 ## About Me:
 
 - 🔭 I’m currently working on Globant💚.
-- 🌱 I’m currently learning full-stack web development.
+- 🌱 I’m currently learning frontend web development.
 - 💬 Don't hesitate to ask me about web development!
 - 📩 Contact me at diegocaserosmr@gmail.com!
 
@@ -26,13 +26,6 @@
             <li>JavaScript</li>
             <li>TypeScript</li>
             <li>Bootstrap</li>
-        </ul>
-    </div>
-    <div style="width: 32%; margin: 1%;">
-        <ul>
-          <li>Git</li>
-            <li>C#</li>
-            <li>PHP</li>
         </ul>
     </div>
 </div>
