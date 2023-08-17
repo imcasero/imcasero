@@ -8,7 +8,7 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on Inetum.
+- 🔭 I’m currently working on Globant💚.
 - 🌱 I’m currently learning full-stack web development.
 - 💬 Don't hesitate to ask me about web development!
 - 📩 Contact me at diegocaserosmr@gmail.com!
