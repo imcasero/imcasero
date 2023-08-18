@@ -75,15 +75,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/imcasero_dev" target="_blank">
-    <img src="https://img.shields.io/badge/-@imcasero_dev-1DA1F2?style=flat&logo=Twitter&logoColor=white"/>
-  </a>
+
   <a href="https://linkedin.com/in/imcasero" target="_blank">
     <img src="https://img.shields.io/badge/-imcasero-blue?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/imcasero.dev" target="_blank">
-    <img src="https://img.shields.io/badge/-imcasero.dev-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-  </a>
+
 </p>
 
 
