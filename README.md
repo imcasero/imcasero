@@ -37,7 +37,7 @@
         <ul>
             <li>TypeScript</li>
             <li>React</li>
-            <li>Tailwind</li>
+            <li>Angular</li>
         </ul>
     </div>
     <div style="width: 32%; margin: 1%;">
