@@ -41,7 +41,8 @@
         </ul>
     </div>
 </div>
-### ⚙️ &nbsp;GitHub Analytics
+
+## ⚙️ &nbsp;GitHub Analytics
 
 <div style="display: flex; width: 100%;">
   <div style="flex: 1; height: 180px;">
