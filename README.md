@@ -26,6 +26,7 @@
             <li>JavaScript</li>
             <li>TypeScript</li>
             <li>Bootstrap</li>
+            <li>Tailwind</li>
         </ul>
     </div>
 </div>
