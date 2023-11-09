@@ -46,17 +46,18 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div style="display: flex; width: 100%;">
-  <div style="flex: 1; height: 180px;">
+  <div style="flex: 1;">
     <a href="https://github.com/imcasero">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imcasero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=stars,issues&custom_title=GitHub+Stats"/>
+      <img style="max-width: 100%;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imcasero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=stars,issues&custom_title=GitHub+Stats"/>
     </a>
   </div>
-  <div style="flex: 1; height: 180px;">
+  <div style="flex: 1;">
     <a href="https://github.com/imcasero">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imcasero&layout=compact&langs_count=8&theme=algolia&custom_title=Languages"/>
+      <img style="max-width: 100%;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imcasero&layout=compact&langs_count=8&theme=algolia&custom_title=Languages"/>
     </a>
   </div>
 </div>
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
