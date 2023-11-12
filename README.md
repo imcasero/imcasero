@@ -1,47 +1,8 @@
-  <h1>Hi ✌, I'm <a href="https://linktr.ee/imcasero">Diego</a></h1>
-  
-
-<p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/99729923/232099210-96973f2d-37af-4c15-bba1-1702e9a1afda.png">
-</p>
-
-
-## About Me:
-
-- 🔭 I’m currently working on Globant💚.
-- 🌱 I’m currently learning frontend web development.
-- 💬 Don't hesitate to ask me about web development!
-- 📩 Contact me at diegocaserosmr@gmail.com!
-
-
-
-
-
-## :rocket: Favorite Technologies
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <div style="width: 32%; margin: 1%;">
-        <ul>
-            <li>React</li>
-            <li>JavaScript</li>
-            <li>TypeScript</li>
-            <li>Bootstrap</li>
-            <li>Tailwind</li>
-        </ul>
-    </div>
-</div>
-
-## 🌱 Currently Learning
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <div style="width: 32%; margin: 1%;">
-        <ul>
-            <li>TypeScript</li>
-            <li>React</li>
-            <li>Angular</li>
-        </ul>
-    </div>
-</div>
+Feel free to checkout my [portfolio](https://imcasero.vercel.app/) website!
+- 🏢 Software Engineer (Frontend) [@Globant](https://www.globant.com/), in Madrid ES.
+- 🧰 I build with: `React`, `Angular`, `TypeScript`, `JavaScript`, `Tailwind`,  `Bootstrap` ...
+- ⚡ I enjoy build setups and PCs, code, do sport, and lifting weights :)
+- 📫 Reach out to me: diegocaserosmr@gmail.com
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -57,24 +18,6 @@
     </a>
   </div>
 </div>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-  <a href="https://linkedin.com/in/imcasero" target="_blank">
-    <img src="https://img.shields.io/badge/-imcasero-blue?style=flat&logo=Linkedin&logoColor=white"/>
-  </a>
-
-</p>
 
 
 
