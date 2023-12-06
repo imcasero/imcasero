@@ -1,3 +1,7 @@
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/imcasero)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/imcasero.dev) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/imcasero/)
+
 Feel free to checkout my [portfolio](https://imcasero.vercel.app/) website!
 - 🏢 Software Engineer (Frontend) [@Globant](https://www.globant.com/), in Madrid ES.
 - 🧰 I build with: `React`, `Angular`, `TypeScript`, `JavaScript`, `Tailwind`,  `Bootstrap` ...
