@@ -4,7 +4,7 @@
 
 Feel free to checkout my [portfolio](https://imcasero.dev/) website!
 - 🏢 Software Engineer (Frontend) [@Globant](https://www.globant.com/), in Madrid ES.
-- 🧰 I build with: `React`, `Angular`, `TypeScript`, `JavaScript`, `Tailwind`,  `Bootstrap` ...
+- 🧰 I build with:`Astro`, `React`, `Angular`, `TypeScript`, `JavaScript`, `Tailwind`,  `Bootstrap` ...
 - ⚡ I enjoy build setups and PCs, code, do sport, and lifting weights :)
 - 📫 Reach out to me: diegocaserosmr@gmail.com
 
