@@ -1,7 +1,7 @@
 
 
 Feel free to checkout my [portfolio](https://imcasero.dev/) website!
-- 🏢 Software Developer (Frontend Specialist) [@Globant](https://www.globant.com/), in Madrid 🇪🇸 .
+- 🏢 Software Engineer (Frontend Specialist) [@CaixaBank]([https://www.globant.com/](https://www.caixabanktech.com/es/pagina-de-inicio/)), in Madrid 🇪🇸 .
 - 🧰 I build with:`NextJS`,`AstroJS` , `React`, `Angular`, `TypeScript`, `JavaScript`, `Tailwind` , etc...
 - ⚡ I enjoy build setups and PCs, code, do sport, and lifting weights :)
 - 📫 Reach out to me: diegocaserosmr@gmail.com
