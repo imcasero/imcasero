@@ -2,8 +2,8 @@
 
 Feel free to checkout my [portfolio](https://imcasero.dev/) website!
 - 🏢 Software Engineer (Frontend Specialist) [@CaixaBank](https://www.caixabanktech.com/es/pagina-de-inicio/), in Madrid 🇪🇸 .
-- 🧰 I build with:`NextJS`,`AstroJS` , `React`, `Angular`, `TypeScript`, `JavaScript`, `Tailwind` , etc...
-- ⚡ I enjoy build setups and PCs, code, do sport, and lifting weights :)
+- 🧰 I build with:`Next.js`, `Astro`, `React`, `Nest.js`, `TypeScript`, `JavaScript`, `Tailwind` 
+- ⚡ I enjoy build setups and keyboards, code, do sport, and lifting weights :)
 - 📫 Reach out to me: diegocaserosmr@gmail.com
 
 ## ⚙️ &nbsp;GitHub Stack
