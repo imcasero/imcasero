@@ -1,71 +1,59 @@
-# Hey 👋
-
+```bash
+$ cat diego.ts
+```
 ```typescript
 const diego = {
   role: "Frontend Developer",
-  location: "Madrid, Spain",
   company: "CaixaBank Tech",
+  location: "Madrid, Spain",
+  experience: {
+    years: "2+",
+    impact: {
+      current: "2K+ daily users on React apps",
+      previous: "30% bug reduction through testing strategy"
+    }
+  },
+  
   stack: {
-    frontend: ["React", "TypeScript", "Next.js", "Astro"],
-    backend: ["Node.js", "NestJS", "PostgreSQL"],
-    testing: ["Jest", "Vitest"],
+    frontend: {
+      core: ["React 18", "TypeScript 5.x", "Next.js 15", "Astro"],
+      architecture: ["Microfrontends", "Component-driven design"],
+      styling: ["Tailwind", "CSS Modules", "SASS"],
+      testing: ["Jest", "Vitest", "React Testing Library"]
+    },
+    backend: {
+      runtime: ["Node.js", "NestJS"],
+      databases: ["PostgreSQL", "MySQL"],
+      orm: ["Prisma"]
+    },
     tools: ["Git", "Docker", "CI/CD"]
   },
-  currentlyBuilding: {
+
+  currentProject: {
     name: "ChefFlow",
-    description: "Full-stack meal planning app",
-    tech: ["Next.js", "NestJS", "PostgreSQL"],
+    problem: "Recipe apps give you '200g flour' + '1 cup flour' as separate items",
+    solution: "Smart ingredient aggregation with unit normalization",
     repo: "github.com/Chefflow"
   },
-  learning: ["NestJS patterns", "AI integration", "Scalable architectures"],
+
+  learning: {
+    exploring: ["Rust", "Go", "Python"]
+  },
+
   openTo: {
     remote: "Europe",
-    relocation: "Geneva, Switzerland"
+    relocation: {
+      location: "Geneva, Switzerland",
+      availability: "Immediate"
+    }
+  },
+
+  contact: {
+    portfolio: "imcasero.dev",
+    linkedin: "linkedin.com/in/imcasero",
+    email: "diegocaserosmr@gmail.com"
   }
 };
-```
 
----
-
-## 💻 Tech Stack
-
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white)
-
-**Testing:**  
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
----
-
-## 🚀 Currently
-
-```bash
-$ npm run life
-
-> Building automation tools @CaixaBankTech
-> Working on @ChefFlow (github.com/Chefflow)
-```
-
----
-
-## 📫 Contact
-
-```javascript
-const contact = {
-  portfolio: "imcasero.dev",
-  linkedin: "linkedin.com/in/imcasero",
-  email: "diegocaserosmr@gmail.com"
-};
-
-// Open to remote opportunities in Europe
-// Available for relocation to Geneva, Switzerland
+export default diego;
 ```
