@@ -1,59 +1,41 @@
-```bash
-$ cat diego.ts
-```
-```typescript
-const diego = {
-  role: "Frontend Developer",
-  company: "CaixaBank Tech",
-  location: "Madrid, Spain",
-  experience: {
-    years: "2+",
-    impact: {
-      current: "2K+ daily users on React apps",
-      previous: "30% bug reduction through testing strategy"
-    }
-  },
-  
-  stack: {
-    frontend: {
-      core: ["React 18", "TypeScript 5.x", "Next.js 15", "Astro"],
-      architecture: ["Microfrontends", "Component-driven design"],
-      styling: ["Tailwind", "CSS Modules", "SASS"],
-      testing: ["Jest", "Vitest", "React Testing Library"]
-    },
-    backend: {
-      runtime: ["Node.js", "NestJS"],
-      databases: ["PostgreSQL", "MySQL"],
-      orm: ["Prisma"]
-    },
-    tools: ["Git", "Docker", "CI/CD"]
-  },
+# Hey, I'm Diego 👋
 
-  currentProject: {
-    name: "ChefFlow",
-    problem: "Recipe apps give you '200g flour' + '1 cup flour' as separate items",
-    solution: "Smart ingredient aggregation with unit normalization",
-    repo: "github.com/Chefflow"
-  },
+Frontend dev who's been shipping React apps for 3 years and still enjoys it.
 
-  learning: {
-    exploring: ["Rust", "Go", "Python"]
-  },
+Currently building microfrontends @ CaixaBank Tech, previously led Angular → React migrations and built component libraries @ Globalt.
 
-  openTo: {
-    remote: "Europe",
-    relocation: {
-      location: "Geneva, Switzerland",
-      availability: "Immediate"
-    }
-  },
+**Next chapter:** Moving to Geneva, Switzerland in 2026.
 
-  contact: {
-    portfolio: "imcasero.dev",
-    linkedin: "linkedin.com/in/imcasero",
-    email: "diegocaserosmr@gmail.com"
-  }
-};
+---
 
-export default diego;
-```
+## What I work with
+
+React • TypeScript • Next.js • NestJS • PostgreSQL  
+Also: Microfrontends, Jest, Docker, AWS
+
+Learning for fun: Python, Rust, Go
+
+---
+
+## Stuff I've built
+
+### At work
+- Led migration from Angular to React (Globalt)
+- Built company's first reusable component library
+- Reduced prod bugs 30% through better testing
+- Refactored internal tools cutting workflows from months → days
+
+### Side projects
+**[ChefFlow](https://github.com/Chefflow)** — Recipe management that actually aggregates ingredients properly. No more "200g flour" and "1 cup flour" as separate items.
+
+**[Calmind Series](https://github.com/imcasero/calmind-series)** — Pokémon competitive league system with hierarchical tournaments.
+
+---
+
+## Find me
+
+🌍 Madrid → Geneva (2026)  
+📧 diegocaserosmr@gmail.com  
+🔗 [imcasero.dev](https://imcasero.dev) • [LinkedIn](https://linkedin.com/in/imcasero)
+
+Looking for frontend/fullstack roles in Switzerland or remote EU. Open to interesting problems.
