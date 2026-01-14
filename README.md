@@ -34,7 +34,7 @@ Learning for fun: Python, Rust, Go
 
 ## Find me
 
-🌍 Madrid → Geneva (2026)  
+🌍 Madrid, Spain and Ferney-Voltaire, Auvernia-Ródano-Alpes, France
 📧 diegocaserosmr@gmail.com  
 🔗 [imcasero.dev](https://imcasero.dev) • [LinkedIn](https://linkedin.com/in/imcasero)
 
