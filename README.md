@@ -4,8 +4,6 @@ Frontend dev who's been shipping React apps for 3 years and still enjoys it.
 
 Currently building microfrontends @ CaixaBank Tech, previously led Angular → React migrations and built component libraries @ Globalt.
 
-**Next chapter:** Moving to Geneva, Switzerland in 2026.
-
 ---
 
 ## What I work with
@@ -13,7 +11,7 @@ Currently building microfrontends @ CaixaBank Tech, previously led Angular → R
 React • TypeScript • Next.js • NestJS • PostgreSQL  
 Also: Microfrontends, Jest, Docker, AWS
 
-Learning for fun: Python, Rust, Go
+Next learning steps for fun: Python, Rust, Go
 
 ---
 
