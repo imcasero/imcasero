@@ -1,39 +1,39 @@
 # Hey, I'm Diego 👋
 
-Frontend dev who's been shipping React apps for 3 years and still enjoys it.
+Frontend dev based in Madrid. I like building things — web apps,
+side projects, tools I'll actually use, things that probably didn't
+need to exist but were fun to make.
 
-Currently building microfrontends @ CaixaBank Tech, previously led Angular → React migrations and built component libraries @ Globalt.
-
----
-
-## What I work with
-
-React • TypeScript • Next.js • NestJS • PostgreSQL  
-Also: Microfrontends, Jest, Docker, AWS
-
-Next learning steps for fun: Python, Rust, Go
+React + TypeScript by day. Whatever makes sense for the problem by night.
 
 ---
 
-## Stuff I've built
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imcasero&show_icons=true&theme=tokyonight&hide_border=true&hide=prs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcasero&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
-### At work
-- Led migration from Angular to React (Globalt)
-- Built company's first reusable component library
-- Reduced prod bugs 30% through better testing
-- Refactored internal tools cutting workflows from months → days
-
-### Side projects
-**[ChefFlow](https://github.com/Chefflow)** — Recipe management that actually aggregates ingredients properly. No more "200g flour" and "1 cup flour" as separate items.
-
-**[Calmind Series](https://github.com/imcasero/calmind-series)** — Pokémon competitive league system with hierarchical tournaments.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=imcasero&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## Find me
+## What I'm working on
 
-🌍 Madrid, Spain and Ferney-Voltaire, Auvernia-Ródano-Alpes, France
-📧 diegocaserosmr@gmail.com  
-🔗 [imcasero.dev](https://imcasero.dev) • [LinkedIn](https://linkedin.com/in/imcasero)
+**[ChefFlow](https://github.com/Chefflow)** — A recipe app that treats
+cooking like a human would. No more duplicate ingredients, no more chaos.
 
-Looking for frontend/fullstack roles in Switzerland or remote EU. Open to interesting problems.
+**[Calmind Series](https://github.com/imcasero/calmind-series)** — A full
+competitive league system for Pokémon. Yes, seriously.
+
+---
+
+## What's next on my list
+
+Python, Rust, Go. In that order. Probably something else by the time
+you read this.
+
+---
+
+📍 Madrid & Geneva · [imcasero.dev](https://imcasero.dev) · [LinkedIn](https://linkedin.com/in/imcasero) · [diegocaserosmr@gmail.com](mailto:diegocaserosmr@gmail.com)
