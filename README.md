@@ -9,11 +9,6 @@ React + TypeScript by day. Whatever makes sense for the problem by night.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imcasero&show_icons=true&theme=tokyonight&hide_border=true&hide=prs" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcasero&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=imcasero&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
