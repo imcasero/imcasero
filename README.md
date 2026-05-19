@@ -20,7 +20,7 @@ React + TypeScript by day. Whatever makes sense for the problem by night.
 cooking like a human would. No more time spend on thinking, no more chaos.
 
 **[Calmind Series](https://github.com/imcasero/calmind-series)** — A full
-competitive league system for Pokémon. Yes, seriously.
+competitive league system for Pokémon.
 
 ---
 
