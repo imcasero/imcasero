@@ -6,23 +6,13 @@ need to exist but were fun to make.
 
 React + TypeScript by day. Whatever makes sense for the problem by night.
 
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=imcasero&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
 ## What I'm working on
 
 **[ChefFlow](https://github.com/Chefflow)** — A recipe app that treats
-cooking like a human would. No more time spend on thinking, no more chaos.
+cooking like a human would. Less time thinking, less chaos.
 
 **[Calmind Series](https://github.com/imcasero/calmind-series)** — A full
 competitive league system for Pokémon.
-
----
 
 ## What's next on my list
 
@@ -31,4 +21,4 @@ you read this.
 
 ---
 
-📍 Madrid & Geneva · [imcasero.dev](https://imcasero.dev) · [LinkedIn](https://linkedin.com/in/imcasero) · [diegocaserosmr@gmail.com](mailto:diegocaserosmr@gmail.com)
+[imcasero.dev](https://imcasero.dev) · [LinkedIn](https://linkedin.com/in/imcasero) · [diegocaserosmr@gmail.com](mailto:diegocaserosmr@gmail.com)
